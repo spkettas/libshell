@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- myserv -->
+    <Module name="myserv" external="0">
+        <cmd id="20001" name="show" arity="-2">
+            <subcmd name="mirror" arity="2"/>
+            <subcmd name="log" arity="4"/>
+        </cmd>
+
+        <cmd id="20002" name="set" arity="-3">
+            <subcmd name="mirror" arity="3"/>
+
+            <subcmd name="aaa" arity="-3">
+                <property value="server" arity="3"/>
+                <property value="interface" arity="4"/>
+            </subcmd>
+        </cmd>
+    </Module>
+
+    <!-- tester -->
+    <Module name="tester" external="1" />
+</root>

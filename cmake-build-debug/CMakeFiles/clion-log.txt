@@ -1,0 +1,4 @@
+C:\Users\kanesun\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=C:/cygwin64/bin/gcc.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/d/code/opensource/libatshell
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/code/opensource/libatshell/cmake-build-debug
