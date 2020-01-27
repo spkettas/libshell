@@ -1,6 +1,6 @@
-## libatshell
+## libshell
 
-> 通用终端CLI 命令行工具，参照redis-cli 实现，命令支持可配置化。
+> 通用终端CLI 命令行工具，参照redis-cli 实现，命令支持可配置化
 
 
 
@@ -71,7 +71,8 @@ cd test && ./myserv
 
 
 
-### 待完善:smile:
+### 待完善 :slightly_smiling_face:
 
-- [ ] 配置文件目前只支持4个以内参数
+- [ ] 配置文件命令只支持4个以内参数
 - [ ] 不支持命令自动补全
+
